@@ -35,7 +35,7 @@ main .txt h1{
     font-family: "Poppins", serif;
     font-weight: 800;
     font-size: 100px;
-    margin-left: 150px;
+    margin-left: 180px;
     margin-top: 50px;
 }
 
@@ -44,7 +44,7 @@ main .txt p{
     font-family: "Poppins", serif;
     font-weight: 700;
     font-size: 60px;
-    margin-left: 150px;
+    margin-left: 180px;
     margin-top: 20px;
     line-height: 100px;
 }
@@ -54,14 +54,14 @@ main .txt h2{
     font-family: "Poppins", serif;
     font-weight: 700;
     font-size: 80px;
-    margin-left: 150px;
+    margin-left: 180px;
     margin-top: 50px;
     line-height: 100px;
 }
 
 main .icon{
     font-size: 70px;
-    margin-left: 150px;
+    margin-left: 180px;
     margin-top: 20px;
     line-height: 100px;
 }
@@ -76,7 +76,7 @@ main .buy h1{
     font-family: "Poppins", serif;
     font-weight: 700;
     font-size: 90px;
-    margin-left: 150px;
+    margin-left: 180px;
     margin-top: 50px;
     line-height: 100px;
 }
@@ -86,7 +86,7 @@ main .buy p{
     font-family: "Poppins", serif;
     font-weight: 700;
     font-size: 60px;
-    margin-left: 150px;
+    margin-left: 180px;
     margin-top: 10px;
     line-height: 100px;
 }
@@ -96,7 +96,7 @@ main .buy h2{
     font-family: "Poppins", serif;
     font-weight: 700;
     font-size: 80px;
-    margin-left: 150px;
+    margin-left: 180px;
     margin-top: 10px;
     line-height: 100px;
 }
@@ -106,7 +106,7 @@ main .buy span{
     font-family: "Poppins", serif;
     font-weight: 700;
     font-size: 50px;
-    margin-left: 150px;
+    margin-left: 180px;
     margin-top: 10px;
     line-height: 100px;
 }
@@ -116,7 +116,7 @@ main .buy h3{
     font-family: "Poppins", serif;
     font-weight: 700;
     font-size: 70px;
-    margin-left: 150px;
+    margin-left: 180px;
     margin-top: 10px;
     line-height: 100px;
 }
@@ -128,7 +128,7 @@ main .buy h3{
     border: none; /* Remove borda */
     padding: 40px 100px; /* Espaçamento interno */
     font-size: 35px; /* Tamanho do texto */
-    margin-left: 150px;
+    margin-left: 180px;
     margin-top: 10px;
     border-radius: 15px; /* Borda arredondada */
     cursor: pointer; /* Cursor de clique */
@@ -141,7 +141,7 @@ main .up h1{
     font-family: "Poppins", serif;
     font-weight: 700;
     font-size: 70px;
-    margin-left: 150px;
+    margin-left: 180px;
     margin-top: 100px;
     line-height: 100px;
 
@@ -149,7 +149,7 @@ main .up h1{
 
 main .icon1{
     font-size: 70px;
-    margin-left: 150px;
+    margin-left: 180px;
     margin-top: 20px;
     line-height: 100px;
     margin-bottom: 120px;
