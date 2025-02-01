@@ -1,0 +1,156 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    display: flex;
+    align-items: center;
+}
+
+header .topo{
+    font-size: 25px;
+    margin: 70px;
+}
+
+header .icon{
+    font-size: 75px;
+    margin-left: 400px;
+}
+
+main{
+    width: 100vh;
+}
+
+main .container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+main .txt h1{
+    color: #06ff;
+    font-family: "Poppins", serif;
+    font-weight: 800;
+    font-size: 100px;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+main .txt p{
+    color: rgb(255, 29, 108);
+    font-family: "Poppins", serif;
+    font-weight: 700;
+    font-size: 60px;
+    margin-left: 100px;
+    margin-top: 20px;
+    line-height: 100px;
+}
+
+main .txt h2{
+    color: #ff00fb;
+    font-family: "Poppins", serif;
+    font-weight: 700;
+    font-size: 80px;
+    margin-left: 100px;
+    margin-top: 50px;
+    line-height: 100px;
+}
+
+main .icon{
+    font-size: 70px;
+    margin-left: 100px;
+    margin-top: 20px;
+    line-height: 100px;
+}
+
+.img2 img{
+    margin-top: 50px;
+    width: 928px;
+    height: 1280px;
+}
+main .buy h1{
+    color: #ff00fb;
+    font-family: "Poppins", serif;
+    font-weight: 700;
+    font-size: 90px;
+    margin-left: 100px;
+    margin-top: 50px;
+    line-height: 100px;
+}
+
+main .buy p{
+    color: #ff00fb;
+    font-family: "Poppins", serif;
+    font-weight: 700;
+    font-size: 60px;
+    margin-left: 100px;
+    margin-top: 10px;
+    line-height: 100px;
+}
+
+main .buy h2{
+    color: #ff00fb;
+    font-family: "Poppins", serif;
+    font-weight: 700;
+    font-size: 80px;
+    margin-left: 100px;
+    margin-top: 10px;
+    line-height: 100px;
+}
+
+main .buy span{
+    color: #ff00fb;
+    font-family: "Poppins", serif;
+    font-weight: 700;
+    font-size: 50px;
+    margin-left: 100px;
+    margin-top: 10px;
+    line-height: 100px;
+}
+
+main .buy h3{
+    color: #ff00fb;
+    font-family: "Poppins", serif;
+    font-weight: 700;
+    font-size: 70px;
+    margin-left: 100px;
+    margin-top: 10px;
+    line-height: 100px;
+}
+
+.btn button{
+    background-color: red; /* Fundo vermelho */
+    color: white; /* Texto branco */
+    font-family: "Poppins", serif;
+    border: none; /* Remove borda */
+    padding: 40px 100px; /* Espaçamento interno */
+    font-size: 35px; /* Tamanho do texto */
+    margin-left: 100px;
+    margin-top: 10px;
+    border-radius: 15px; /* Borda arredondada */
+    cursor: pointer; /* Cursor de clique */
+    text-transform: uppercase; /* Deixa o texto em maiúsculas */
+}
+
+
+main .up h1{
+    color: #000;
+    font-family: "Poppins", serif;
+    font-weight: 700;
+    font-size: 70px;
+    margin-left: 100px;
+    margin-top: 100px;
+    line-height: 100px;
+
+}
+
+main .icon1{
+    font-size: 70px;
+    margin-left: 100px;
+    margin-top: 20px;
+    line-height: 100px;
+    margin-bottom: 120px;
+}
